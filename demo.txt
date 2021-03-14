@@ -1,1 +1,2 @@
 First time using git. 
+I editted this file in GitHub. I intend to pull it. 
